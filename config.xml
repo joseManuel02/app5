@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app4"
+  id = "com.phonegap.app5"
   version = "1.0.0">
   
- <name> app4-2019 dia de la madre tierra </name>
+ <name> app5 notificaciones 2019 </name>
  
  <description>
-  aplicacion que nos muestra la informacion referente al dia de la madre tierra
+  aplicacion que nos vibra y nos da un beep en el dispositivo
  </description>
  
  <author href="https://build.phonegap.com" email="chuckforces2000@gmail.com">
